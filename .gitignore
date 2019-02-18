@@ -1,20 +1,18 @@
 # ---------------[ Unity generated ]------------------ #
 
-/Temp
+Temp
 
-/obj
+obj
 
-/UnityGenerated
-
-/Library
+Library
 
  
 
 # ----[ Visual Studio / MonoDevelop generated ]------- #
 
-/bin
-/obj
-/.vs
+bin
+obj
+.vs
 
 
 # -------------[ OS generated ]------------------------ #
@@ -23,14 +21,4 @@
 
 .DS_Store?
 
-._*
-
-.Spotlight-V100
-
 .Trashes
-
-Icon?
-
-ehthumbs.db
-
-Thumbs.db
